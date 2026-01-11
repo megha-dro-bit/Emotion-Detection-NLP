@@ -41,6 +41,15 @@ Accuracy
 Macro F1-score
 
 This ensured fair comparison across emotion classes, especially in the presence of class imbalance.
+### Google Colab Access
+
+To ensure easy reproducibility and accessibility of this project, a Google Colab notebook has been provided.  
+By clicking the **“Open in Colab”** button above, users can directly open and execute the notebook in a cloud-based environment without requiring any local setup or dependency installation.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/megha-dro-bit/Emotion-Detection-NLP/blob/main/emotion_detection.ipynb
+)
+
+
 ### Results
 
 The experimental results demonstrate that classical machine learning models combined with TF-IDF features can effectively perform emotion classification.
